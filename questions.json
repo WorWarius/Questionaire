@@ -1,0 +1,242 @@
+[
+  {
+    "theQuestion": "Do you enjoy exercising?",
+    "alternativeOne": {
+      "hund": 2,
+      "katt": 1,
+      "kanin": 0,
+      "fisk": 0
+    },
+    "alternativeTwo": {
+      "hundAlt": 0,
+      "kattAlt": 0,
+      "kaninAlt": 1,
+      "fiskAlt": 2
+    }
+  },
+  {
+    "theQuestion": "Does your livingplace have a plot/outside garden?",
+    "alternativeOne": {
+      "hund": 2,
+      "katt": 1,
+      "kanin": 0,
+      "fisk": 0
+    },
+    "alternativeTwo": {
+      "hundAlt": 0,
+      "kattAlt": 0,
+      "kaninAlt": 1,
+      "fiskAlt": 2
+    }
+  },
+  {
+    "theQuestion": "Do you live in a apartment?",
+    "alternativeOne": {
+      "hund": 0,
+      "katt": 0,
+      "kanin": 1,
+      "fisk": 2
+    },
+    "alternativeTwo": {
+      "hundAlt": 2,
+      "kattAlt": 1,
+      "kaninAlt": 0,
+      "fiskAlt": 0
+    }
+  },
+  {
+    "theQuestion": "Do you have a lot of freetime?",
+    "alternativeOne": {
+      "hund": 2,
+      "katt": 0,
+      "kanin": 1,
+      "fisk": 0
+    },
+    "alternativeTwo": {
+      "hundAlt": 0,
+      "kattAlt": 1,
+      "kaninAlt": 0,
+      "fiskAlt": 2
+    }
+  },
+  {
+    "theQuestion": "Do you want your animal to sleep in a cage?",
+    "alternativeOne": {
+      "hund": 0,
+      "katt": 0,
+      "kanin": 1,
+      "fisk": 2
+    },
+    "alternativeTwo": {
+      "hundAlt": 2,
+      "kattAlt": 1,
+      "kaninAlt": 0,
+      "fiskAlt": 0
+    }
+  },
+  {
+    "theQuestion": "Do you want to sleep next to your animal?",
+    "alternativeOne": {
+      "hund": 1,
+      "katt": 2,
+      "kanin": 0,
+      "fisk": 0
+    },
+    "alternativeTwo": {
+      "hundAlt": 0,
+      "kattAlt": 0,
+      "kaninAlt": 1,
+      "fiskAlt": 2
+    }
+  },
+  {
+    "theQuestion": "Do you wanna spend a lot of money on your animal?",
+    "alternativeOne": {
+      "hund": 0,
+      "katt": 1,
+      "kanin": 2,
+      "fisk": 0
+    },
+    "alternativeTwo": {
+      "hundAlt": 2,
+      "kattAlt": 0,
+      "kaninAlt": 0,
+      "fiskAlt": 1
+    }
+  },
+  {
+    "theQuestion": "Do you like going outside the country for a vacation?",
+    "alternativeOne": {
+      "hund": 0,
+      "katt": 1,
+      "kanin": 0,
+      "fisk": 2
+    },
+    "alternativeTwo": {
+      "hundAlt": 2,
+      "kattAlt": 0,
+      "kaninAlt": 1,
+      "fiskAlt": 0
+    }
+  },
+  {
+    "theQuestion": "Do you get irritated by a lot of fur?",
+    "alternativeOne": {
+      "hund": 0,
+      "katt": 0,
+      "kanin": 1,
+      "fisk": 2
+    },
+    "alternativeTwo": {
+      "hundAlt": 1,
+      "kattAlt": 2,
+      "kaninAlt": 0,
+      "fiskAlt": 0
+    }
+  },
+  {
+    "theQuestion": "Do you often feel alone?",
+    "alternativeOne": {
+      "hund": 2,
+      "katt": 1,
+      "kanin": 0,
+      "fisk": 0
+    },
+    "alternativeTwo": {
+      "hundAlt": 0,
+      "kattAlt": 0,
+      "kaninAlt": 1,
+      "fiskAlt": 2
+    }
+  },
+  {
+    "theQuestion": "Do you like big animals?",
+    "alternativeOne": {
+      "hund": 2,
+      "katt": 1,
+      "kanin": 0,
+      "fisk": 0
+    },
+    "alternativeTwo": {
+      "hundAlt": 0,
+      "kattAlt": 0,
+      "kaninAlt": 1,
+      "fiskAlt": 2
+    }
+  },
+  {
+    "theQuestion": "Do you like silence?",
+    "alternativeOne": {
+      "hund": 0,
+      "katt": 0,
+      "kanin": 1,
+      "fisk": 2
+    },
+    "alternativeTwo": {
+      "hundAlt": 2,
+      "kattAlt": 1,
+      "kaninAlt": 0,
+      "fiskAlt": 0
+    }
+  },
+  {
+    "theQuestion": "Do you want unconditional love?",
+    "alternativeOne": {
+      "hund": 2,
+      "katt": 0,
+      "kanin": 1,
+      "fisk": 0
+    },
+    "alternativeTwo": {
+      "hundAlt": 0,
+      "kattAlt": 2,
+      "kaninAlt": 0,
+      "fiskAlt": 1
+    }
+  },
+  {
+    "theQuestion": "Do you get easily disgusted?",
+    "alternativeOne": {
+      "hund": 0,
+      "katt": 0,
+      "kanin": 2,
+      "fisk": 1
+    },
+    "alternativeTwo": {
+      "hundAlt": 1,
+      "kattAlt": 2,
+      "kaninAlt": 0,
+      "fiskAlt": 0
+    }
+  },
+  {
+    "theQuestion": "Are you religious?",
+    "alternativeOne": {
+      "hund": 0,
+      "katt": 0,
+      "kanin": 1,
+      "fisk": 2
+    },
+    "alternativeTwo": {
+      "hundAlt": 1,
+      "kattAlt": 2,
+      "kaninAlt": 0,
+      "fiskAlt": 0
+    }
+  },
+  {
+    "theQuestion": "Do you like fluffy animals?",
+    "alternativeOne": {
+      "hund": 0,
+      "katt": 1,
+      "kanin": 2,
+      "fisk": 0
+    },
+    "alternativeTwo": {
+      "hundAlt": 1,
+      "kattAlt": 0,
+      "kaninAlt": 0,
+      "fiskAlt": 2
+    }
+  }
+]
