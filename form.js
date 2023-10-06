@@ -10,7 +10,7 @@ let cat = 0;
 let dog = 0;
 let rabbit = 0;
 let fish = 0;
-let all = 0;
+let allAnimals = 0;
 
 console.log(`Hello and welcome to this quiz about which animalsScores would suit you the best
 Tell me. What is your name?`)
@@ -43,7 +43,7 @@ for (let i = 0; i < questionData.length; i++) {
   }
 }
 
-all = dog + cat + rabbit + fish;
+allAnimals = dog + cat + rabbit + fish;
 let animalsScores = [{ name: "Dog", "score": dog }, { name: "Cat", "score": cat }, { name: "Rabbit", "score": rabbit }, { name: "Fish", "score": fish }]
 animalsScores.sort((a, b) => b.score - a.score);
 
@@ -51,7 +51,7 @@ let today = new Date();
 const dateOfQuiz = today.toLocaleString()
 
 console.log(animalsScores)
-console.log("The animal for you is:", animalsScores[0].name, "With a score of", animalsScores[0].score / all * 100, "%");
+console.log("The animal for you is:", animalsScores[0].name, "With a score of", animalsScores[0].score / allAnimals * 100, "%");
 console.log("Thanks for doing the quiz!");
 
 let playerData = {
